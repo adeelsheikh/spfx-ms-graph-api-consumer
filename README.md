@@ -1,6 +1,4 @@
-## spfx-ms-graph-consumer
-
-This is where you include your WebPart documentation.
+## SPFx web part - Consuming Microsoft Graph API
 
 ### Building the code
 
